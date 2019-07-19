@@ -1,3 +1,9 @@
+## Deprecated. Please visit the [lighthouse-plugin-greenhouse](https://github.com/thegreenwebfoundation/lighthouse-plugin-greenhouse) repo
+
+https://github.com/thegreenwebfoundation/lighthouse-plugin-greenhouse
+
+~~~~~~~~~~~~~~~~~~~~~
+
 # Greenhouse - Lighthouse, but for web that doesn't use fossil fuels
 
 Lighthouse is a nice tool for helping you workout how to make a site more accessible, performance or mobile friendly.
